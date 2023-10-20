@@ -1,2 +1,2 @@
-# online-store/CRUD
- Full-stack
+# online-store
+ 
